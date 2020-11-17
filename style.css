@@ -2,3 +2,12 @@
 	background: blue;
 	padding: 10rem;
 }
+.pulpfiction4 {
+	background-image: url('images/pulpfiction4.jpg');
+	padding: 10rem;
+	color: white
+	font-size: 5rem;
+	background-repeat: no-repeat;
+	background-size: cover;
+	max-width: 50%
+}
